@@ -13,8 +13,8 @@
 > ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 >
 > > 1. [Introduction](https://github.com/wwlCape/HAN#introduction)
-> > 2. [Train](https://github.com/wwlCape/HAN#Begin to train)
-> > 3. [Test](https://github.com/wwlCape/HAN#Begin to test)
+> > 2. [Train](https://github.com/wwlCape/HAN#begin-to-train)
+> > 3. [Test](https://github.com/wwlCape/HAN#begin-to-test)
 > > 4. [Acknowledgements](https://github.com/wwlCape/HAN#Acknowledgements)
 >
 > ### Introduction
