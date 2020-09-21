@@ -8,15 +8,14 @@
 >
 > The code is built on RCAN (PyTorch) and tested on Ubuntu 16.04/18.04 environment (Python3.6, PyTorch_0.4.0, CUDA8.0, cuDNN5.1) with Titan X/1080Ti/Xp GPUs.
 >
-> Contents
-
-> [Introduction](https://github.com/wwlCape/HAN#introduction)
-
-> [Train](https://github.com/wwlCape/HAN#begin-to-train)
-
-> [Test](https://github.com/wwlCape/HAN#begin-to-test)
-
-> [Acknowledgements](https://github.com/wwlCape/HAN#acknowledgements)
+> ### Contents
+>
+> ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+>
+> > 1. [Introduction](https://github.com/wwlCape/HAN#introduction)
+> > 2. [Train](https://github.com/wwlCape/HAN#Begin to train)
+> > 3. [Test](https://github.com/wwlCape/HAN#Begin to test)
+> > 4. [Acknowledgements](https://github.com/wwlCape/HAN#Acknowledgements)
 >
 > ### Introduction
 >
