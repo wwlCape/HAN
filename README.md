@@ -10,9 +10,9 @@
 >
 > Contents
 > [Introduction](https://github.com/wwlCape/HAN#introduction)
-> [Train](https://github.com/wwlCape/HAN#Begin to train)
-> [Test](https://github.com/wwlCape/HAN#Begin to test)
-> [Acknowledgements](https://github.com/wwlCape/HAN#Acknowledgements)
+> [Train](https://github.com/wwlCape/HAN#begin-to-train)
+> [Test](https://github.com/wwlCape/HAN#begin-to-test)
+> [Acknowledgements](https://github.com/wwlCape/HAN#acknowledgements)
 >
 > ### Introduction
 >
