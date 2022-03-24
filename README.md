@@ -4,7 +4,7 @@
 >
 > This repository is for HAN introduced in the following paper
 >
-> Yulun Zhang, Kunpeng Li, Kai Li, Lichen Wang, Bineng Zhong, and Yun Fu, "Single Image Super-Resolution via a Holistic Attention Network", ECCV 2020, [arxiv](https://arxiv.org/abs/2008.08767)
+> Ben Niu, Weilei Wen, Wenqi Ren, Xiangde Zhang, Lianping Yang, Shuzhen Wang, Kaihao Zhang, Xiaochun Cao, Haifeng Shen, "Single Image Super-Resolution via a Holistic Attention Network", ECCV 2020, [arxiv](https://arxiv.org/abs/2008.08767)
 >
 > The code is built on RCAN (PyTorch) and tested on Ubuntu 16.04/18.04 environment (Python3.6, PyTorch_0.4.0, CUDA8.0, cuDNN5.1) with Titan X/1080Ti/Xp GPUs.
 >
